@@ -45,7 +45,7 @@ layout = html.Div([
             dbc.Col(dbc.Card(children=[html.H3(children='Access the code used to build this dashboard',
                                                className="text-center"),
                                        dbc.Button("ATP Tour",
-                                                  href="https://www.atptour.com",
+                                                  href="https://github.com/r-quigley/ATP_Tennis_App",
                                                   color="primary",
                                                   className="mt-3"),
                                        ],
